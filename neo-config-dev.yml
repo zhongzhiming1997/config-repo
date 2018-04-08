@@ -1,7 +1,7 @@
 hello: im dev1111
 
 app:
-  APP_ID: hsit002
-  APP_SECRET: SEPU!PWO@LVE&045#67$
-  API_SERVER_URL: http://10.188.182.190:8091/cust-web-api
-  isCheck: 0   #接口验证加密开关：0/1
+  APP_ID: hsit00211
+  APP_SECRET: SEPU!PWO@LVE&045#67$11
+  API_SERVER_URL: http://10.188.182.190:8091/cust-web-api11
+  isCheck: 01   #接口验证加密开关：0/1
