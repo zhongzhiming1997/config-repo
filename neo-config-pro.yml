@@ -6,7 +6,7 @@ spring:
     name: micro-config-client
   redis:
     database: 0
-    host: 127.0.0.2
+    host: 127.0.0.1
     port: 6379
     password:
     pool:
