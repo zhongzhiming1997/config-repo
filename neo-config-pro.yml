@@ -1,11 +1,23 @@
-hello: im pro11111
+server:
+  port: 2002
+  context-path: /micro-config-client
+spring:
+  application:
+    name: micro-config-client
+  redis:
+    database: 0
+    host: 127.0.0.1
+    port: 6379
+    password:
+    pool:
+      max-idle: 8
+      min-idle: 0
+      max-active: 8
+      max-wait: 1
+    timeout: 5000
 
-app:
-  APP_ID: hsit002
-  APP_SECRET: SEPU!PWO@LVE&045#67$
-  API_SERVER_URL: http://10.188.182.190:8091/cust-web-api
-  isCheck: 0   #接口验证加密开关：0/1
-  
 management:
   security:
     enabled: false
+
+hello: prod in
