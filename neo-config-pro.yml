@@ -20,7 +20,7 @@ management:
   security:
     enabled: false
 
-hello: prod in
+hello: prod in11111
 
 
 app:
