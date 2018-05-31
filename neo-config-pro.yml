@@ -16,11 +16,6 @@ spring:
       max-wait: 1
     timeout: 5000
     
-  rabbitmq:
-    host: 127.0.0.1
-    port: 5672
-    username: guest
-    password: guest
 
 management:
   security:
