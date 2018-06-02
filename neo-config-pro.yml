@@ -21,7 +21,7 @@ management:
   security:
     enabled: false
 
-hello: prod in111
+hello: prod in222
 
 
 app:
