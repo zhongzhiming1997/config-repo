@@ -14,8 +14,7 @@ spring:
       min-idle: 0
       max-active: 8
       max-wait: 1
-    timeout: 5000
-    
+    timeout: 5000    
   rabbitmq:
     host: 127.0.0.1
     port: 5672
